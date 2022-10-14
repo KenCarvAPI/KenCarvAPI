@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KenCarvAPI
 - 👀 I’m interested in smart contract development & oracle application
 - 🌱 I’m currently learning Javascript & basic solidity actions 
-- 💞️ I’m looking to collaborate on learning code or Web3 oracle integrations
+- 💞️ I’m looking to collaborate on learning activity or Web3 oracle integrations
 - 📫 Telegram: @KenKarvez
 
 <!---
